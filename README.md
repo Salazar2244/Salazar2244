@@ -35,18 +35,13 @@ I'm a computer engineering student at [ENSSAT](https://www.enssat.fr/), a French
 I’m currently working on a **Python mastery project** composed of 60+ coding challenges. So far, I’ve developed:
 
 - A **basic calculator**  
-  ![Calculator](https://img.icons8.com/ios-filled/50/000000/calculator.png)
 - A **Tic-Tac-Toe game with AI**  
-  ![Tic Tac Toe](https://img.icons8.com/ios-filled/50/000000/tic-tac-toe.png)
 - (Coming soon) A **speech-to-text program**  
-  ![Speech](https://img.icons8.com/ios-filled/50/000000/microphone.png)
-
 ---
 
 ## 📫 Contact Me
 
 - [LinkedIn](https://www.linkedin.com/in/%C3%A9tienne-bouroullec-9b98692b1/)  
-  ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 - 📧 Email: [ebouroul@enssat.fr](mailto:ebouroul@enssat.fr)  
   ![Email](https://img.icons8.com/ios-filled/24/000000/email.png)
 
