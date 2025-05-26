@@ -9,6 +9,8 @@ I'm a computer engineering student at [ENSSAT](https://www.enssat.fr/), a French
 - 🎓 I'm currently studying **networks**, **basic AI**, and **cybersecurity**.
 - 🌍 Next year, I'll be joining [NTNU](https://www.ntnu.edu/) in Norway, in the **Cybersecurity Department**.
 - 💻 I love **coding**, and I’m always eager to learn new things.
+- 🖥️ I’m familiar with **Linux**, **Windows**, and **macOS** operating systems.
+- 🔧 I have hands-on experience in **building PCs** and strong skills in **hardware**.
 - 🍳 Outside of tech, I enjoy **cooking**, **playing video games**, and **running** — I'm currently training for a **marathon**!
 
 ---
@@ -27,6 +29,9 @@ I'm a computer engineering student at [ENSSAT](https://www.enssat.fr/), a French
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Hardware](https://img.shields.io/badge/-Hardware-007ACC?style=for-the-badge&logo=chip&logoColor=white)
 
 ---
 
@@ -37,6 +42,7 @@ I’m currently working on a **Python mastery project** composed of 60+ coding c
 - A **basic calculator**  
 - A **Tic-Tac-Toe game with AI**  
 - (Coming soon) A **speech-to-text program**  
+
 ---
 
 ## 📫 Contact Me
