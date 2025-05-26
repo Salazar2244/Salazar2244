@@ -15,9 +15,18 @@ I'm a computer engineering student at [ENSSAT](https://www.enssat.fr/), a French
 
 ## 🛠️ Technical Skills
 
-- **Languages:** C, Python, Java, JavaScript, TypeScript
-- **Frameworks & Tools:** Angular, Node.js, Git, Linux
-- **Specialties:** Backend development, scripting, algorithm challenges
+### Programming Languages  
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frameworks & Tools  
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -25,16 +34,21 @@ I'm a computer engineering student at [ENSSAT](https://www.enssat.fr/), a French
 
 I’m currently working on a **Python mastery project** composed of 60+ coding challenges. So far, I’ve developed:
 
-- A **basic calculator**
-- A **Tic-Tac-Toe game with AI**
-- (Coming soon) A **speech-to-text program**
+- A **basic calculator**  
+  ![Calculator](https://img.icons8.com/ios-filled/50/000000/calculator.png)
+- A **Tic-Tac-Toe game with AI**  
+  ![Tic Tac Toe](https://img.icons8.com/ios-filled/50/000000/tic-tac-toe.png)
+- (Coming soon) A **speech-to-text program**  
+  ![Speech](https://img.icons8.com/ios-filled/50/000000/microphone.png)
 
 ---
 
 ## 📫 Contact Me
 
-- [LinkedIn](https://www.linkedin.com/in/%C3%A9tienne-bouroullec-9b98692b1/)
-- 📧 Email: [ebouroul@enssat.fr](mailto:ebouroul@enssat.fr)
+- [LinkedIn](https://www.linkedin.com/in/%C3%A9tienne-bouroullec-9b98692b1/)  
+  ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+- 📧 Email: [ebouroul@enssat.fr](mailto:ebouroul@enssat.fr)  
+  ![Email](https://img.icons8.com/ios-filled/24/000000/email.png)
 
 ---
 
